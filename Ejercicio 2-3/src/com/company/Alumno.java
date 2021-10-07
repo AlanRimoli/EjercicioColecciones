@@ -11,6 +11,8 @@ public class Alumno {
 
     private String nombre;
     private ArrayList<Float> notas;
+    
+    //Constructor sobrecargado
 
     public Alumno(String nombre, ArrayList<Float> notas) {
 
