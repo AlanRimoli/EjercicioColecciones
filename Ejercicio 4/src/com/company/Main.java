@@ -68,7 +68,7 @@ public class Main {
 
         }
 
-        //Mostamos todos los metodos.
+        //Mostamos todos los metodos
 
         //Mostrar en pantalla todas las peliculas
 
